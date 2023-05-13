@@ -1,0 +1,155 @@
+body{
+    background-color: #1c2230;
+}
+.general1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.team{
+    list-style-type: none;
+    display: flex;
+    padding-right: 105px;
+}
+.feature ul li{
+    padding-right: 40px;
+    color: white;
+}
+.image1{
+    margin-left: 50px;
+}
+.image2{
+    position: relative;
+    left: 26%;
+    height: 435px;
+    margin-top: 63px;
+}
+.general2{
+    text-align: center;
+    color: white;
+}
+.jj{
+    font-size: 41px;
+    position: relative;
+}
+.ww{
+    font-size: 24px;
+    position: relative;
+}
+.get{
+    border-radius: 20px;
+    height: 36px;
+    width: 177px;
+    background-color:  #4ec3d4;
+    color: white;
+    border: 1px solid  #4ec3d4;
+    position: relative;
+}
+.image3{
+    width: 100%;
+    margin-top: -211px;
+}
+.general5{
+    background-color: #181e2a;
+}
+.general3{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 95px;;
+    margin-top: -27px;
+    color: white;
+    background-color: #181e2a;
+}
+.uu{
+    margin-left: 201px;
+}
+.general4{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 91px;
+    margin-top: 50px;
+    color: white;
+    background-color: #181e2a;
+}
+.wee{
+    margin-left: 87px;
+}
+.rrr{
+    margin-left: -28px;
+}
+.general6{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 149px
+}
+.dddd{
+    height: 392px;
+}
+.ddddd{
+    margin-top: 82px;
+    color: white;
+}
+.general9{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 163px;
+}
+.yy{
+        height: 25px;
+        border-radius: 10px;
+}
+.yyy{
+    background-color: #1c2230;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+.general10{
+    text-align: center;
+    background-color: #1c2230;
+    color: white;
+    width: 51%;
+    margin-left: 323px;
+    margin-top: 132px;
+    padding: 10px 30px 50px 30px;
+    position: relative;
+}
+.wre{
+    border-radius: 28px;
+    height: 40px;
+    width: 526px;
+}
+.wrr{
+    border-radius: 17px;
+    height: 30px;
+    background-color: #3eb1d1;
+    border: 1px solid #3eb1d1;
+    color: white;
+}
+.general11{
+    background-color: #0c1524;
+    padding-top: 167px;
+    margin-top: -128px;
+}
+.image11{
+    margin-left: 77px;
+}
+.general12{
+    display: flex;
+    justify-content: space-around;
+    padding: 31px;
+    color: white;
+}
+::placeholder{
+    padding: 0px 20px;
+}
+.ret{
+    margin-top: -22px;
+    margin-left: 39px;
+}
+.god{
+    list-style-type: none;
+    margin-top: -18px;
+}
+.image120{
+    height: 15px;
+}
